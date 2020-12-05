@@ -1,1 +1,4 @@
 PCB/Basic/eagle.epf
+Software/MUTE-devboard/.settings
+Software/MUTE-devboard/Keil*
+Software/MUTE-devboard/.*
